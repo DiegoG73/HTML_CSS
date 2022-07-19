@@ -1,0 +1,12 @@
+/* Combinador hermano cercano */
+h2 + p{
+    color: red;
+}
+/*Combinador hermano general*/
+h2 ~ p{
+    color: blue;
+}
+/*Combinador hijo */
+div > p{
+    color: red;
+}

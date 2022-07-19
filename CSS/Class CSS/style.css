@@ -1,0 +1,14 @@
+/*This is how we add comments*/
+p{
+    color: aqua;
+    font-size: 40px;
+}
+/*Class*/
+.paragraph{
+    color: red;
+}
+
+/*ID*/
+#name{
+    color: chartreuse;
+}
