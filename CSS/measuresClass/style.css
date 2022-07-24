@@ -1,0 +1,17 @@
+main{
+    background-color: red;
+    width: 100%;
+    height: 500px;
+}
+.pixels{
+    font-size: 18px;
+}
+.percentage{
+    font-size: 50%;
+}
+
+
+/* EM & REM */
+.em{
+    font-size: 1.5em;
+}
